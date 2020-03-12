@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="694ee485-7c7c-4156-976e-a532422ebbc1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YyD9clSV1Ge21NKaOuolSE5mgx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Client1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sockets.Client1" />
+      <module name="SocketApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sockets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sockets.Client2" />
+      <module name="SocketApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sockets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SocketApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sockets.Server" />
+      <module name="SocketApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sockets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="694ee485-7c7c-4156-976e-a532422ebbc1" name="Default Changelist" comment="" />
+      <created>1583905789080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583905789080</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583996254634">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1583996254634" />
+    <state x="415" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583924632924">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="415" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1583924632924" />
+    <state width="1320" height="200" key="GridCell.Tab.0.bottom" timestamp="1584005461378">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584005461378" />
+    <state width="1320" height="200" key="GridCell.Tab.0.center" timestamp="1584005461378">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584005461378" />
+    <state width="1320" height="200" key="GridCell.Tab.0.left" timestamp="1584005461377">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584005461377" />
+    <state width="1320" height="200" key="GridCell.Tab.0.right" timestamp="1584005461378">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584005461378" />
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1583931961476">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583931961476" />
+    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1583931961476">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1583931961476" />
+    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1583931961475">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1583931961475" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1583931961476">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1583931961476" />
+    <state x="347" y="175" key="run.anything.popup" timestamp="1583924806515">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="175" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1583924806515" />
+  </component>
+</project>
